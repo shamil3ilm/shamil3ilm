@@ -10,7 +10,7 @@ Software engineer focused on **backend systems, financial workflows and reliable
 
 | Project | What it is |
 |---|---|
-| [masaar](https://github.com/shamil3ilm/masaar) | GCC e-invoicing compliance API: ZATCA Phase 2 XML, XAdES signing, hash-chained invoices, TLV QR codes |
+| [masaar](https://github.com/shamil3ilm/masaar) · [ERP backend](https://github.com/shamil3ilm/masaar-erp-backend) · [ERP front end](https://github.com/shamil3ilm/masaar-erp-frontend) | GCC e-invoicing compliance platform (ZATCA Phase 2: XML, signing, hash-chained invoices, TLV QR) and the multi-tenant ERP built on it
 | [athar](https://github.com/shamil3ilm/athar) | Rust + PHP security runtime with explainable decisions and a signed, hash-chained audit log |
 | [domain](https://github.com/shamil3ilm/domain) | Your own private DNS namespace, in a single Go binary |
 | [mail-service](https://github.com/shamil3ilm/mail-service) | Self-hostable mail platform in Go: SMTP capture, web dashboard, full-text search |
