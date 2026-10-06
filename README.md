@@ -3,7 +3,7 @@
 Software engineer focused on **backend systems, financial workflows and reliable application architecture**.
 
 - 💼 **Software Engineer at Zil Money**, a US payments platform: delegated access to payment APIs, payment-approval integrity, recurring-payment safeguards, and AI usage tracking
-- 🧾 **Previously at Netplex Solutions**: a business-management and e-invoicing platform for the GCC, including ZATCA e-invoicing work up to handover
+- 🧾 **Previously at Netplex Solutions**, working on Taxfly, its business-management and e-invoicing product for the GCC, including ZATCA e-invoicing work up to handover
 - 🌐 **Portfolio with live demos and case studies:** [mohamed3shamil.vercel.app](https://mohamed3shamil.vercel.app)
 
 #### Projects worth a look
